@@ -35,4 +35,4 @@ Syntax
 
 Step 2: Project
 
-So now that you are an expert with BEM try your hand at applying it to a small site. Download the attached file labeled "demo-site" and get to work applying BEM to the markup structure. Lets see what you can come up with! 
+So now that you are an expert with BEM, try your hand at applying it to a small site. Download the attached file labeled "demo-site" and get to work applying BEM to the markup structure. Lets see what you can come up with! 
